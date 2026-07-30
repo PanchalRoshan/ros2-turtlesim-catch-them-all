@@ -1,0 +1,12 @@
+# ROS 2 generated files
+build/
+install/
+log/
+
+# VS Code
+.vscode/
+**/.vscode/
+
+# Python
+__pycache__/
+*.pyc
